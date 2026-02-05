@@ -12,18 +12,26 @@ Commercial Registration Number: 1603777
 
 ## Entity Identifiers
 
-**Legal Entity Identifier (LEI):**  
+### Legal Entity Identifier (LEI)
 98450040E688696D1C47  
-GLEIF record: https://search.gleif.org/#/record/98450040E688696D1C47
+GLEIF record: <https://search.gleif.org/#/record/98450040E688696D1C47>
 
-**Refinitiv PermID:**  
+### Refinitiv PermID
 5097108870  
-PermID record: https://permid.org/1-5097108870
+PermID record: <https://permid.org/1-5097108870>
 
-Bloomberg Company ID (BBID): 72802597  
-FactSet Entity ID: 132BDH-E  
-S&P CIQ Company ID: 1975094363
-BvD ID: OMLEI3180174
+### Bloomberg Company ID (BBID)
+72802597
+
+### FactSet Entity ID
+132BDH-E
+
+### S&P Capital IQ Company ID
+1975094363
+
+### Bureau van Dijk (BvD ID)
+OMLEI3180174
+
 ---
 
 ## Website
