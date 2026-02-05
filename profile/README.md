@@ -1,4 +1,5 @@
 # Golden Ark General Trading (FZC) LLC
+Arabic legal name: القوس الذهبي للتجارة العامة (شركة منطقة حرة)
 
 Official organization profile of Golden Ark General Trading (FZC) LLC operating under the brand Golden Ark Reserve.
 
