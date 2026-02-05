@@ -11,8 +11,15 @@ Commercial Registration Number: 1603777
 ---
 
 ## Entity Identifiers
-LEI: 98450040E688696D1C47  
-Refinitiv PermID: 5097108870  
+
+**Legal Entity Identifier (LEI):**  
+98450040E688696D1C47  
+GLEIF record: https://search.gleif.org/#/record/98450040E688696D1C47
+
+**Refinitiv PermID:**  
+5097108870  
+PermID record: https://permid.org/1-5097108870
+
 Bloomberg Company ID (BBID): 72802597  
 FactSet Entity ID: 132BDH-E  
 BvD ID: OMLEI3180174
