@@ -1,9 +1,9 @@
 # Golden Ark General Trading (FZC) LLC
 Arabic legal name: القوس الذهبي للتجارة العامة (شركة منطقة حرة)
 
-Official organization profile of Golden Ark General Trading (FZC) LLC operating under the brand Golden Ark Reserve.
+Golden Ark General Trading (FZC) LLC is a legal entity incorporated in the Sultanate of Oman and operating under the trade name Golden Ark Reserve.
 
-International physical precious metals trading and custody facilitation company.
+Business activity: physical precious metals trading and custody facilitation.
 
 Jurisdiction: Sultanate of Oman  
 Commercial Registration Number: 1603777
