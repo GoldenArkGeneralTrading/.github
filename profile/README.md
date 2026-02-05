@@ -22,9 +22,8 @@ PermID record: https://permid.org/1-5097108870
 
 Bloomberg Company ID (BBID): 72802597  
 FactSet Entity ID: 132BDH-E  
-BvD ID: OMLEI3180174
 S&P CIQ Company ID: 1975094363
-
+BvD ID: OMLEI3180174
 ---
 
 ## Website
