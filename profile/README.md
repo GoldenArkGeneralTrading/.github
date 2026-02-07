@@ -3,7 +3,7 @@ Arabic legal name: القوس الذهبي للتجارة العامة (شركة
 
 Golden Ark General Trading (FZC) LLC is a legal entity incorporated in the Sultanate of Oman and operating under the trade name Golden Ark Reserve.
 
-Business activity: physical precious metals trading and custody facilitation.
+Business activity: physical precious metals trading; custody arranged via third-party providers.
 
 Jurisdiction: Sultanate of Oman  
 Commercial Registration Number: 1603777
@@ -41,5 +41,6 @@ https://goldenarkreserve.com
 
 ## Public disclosures / media
 https://www.businesswire.com/news/home/20260203826775/en  
-https://www.marketwatch.com/press-release/rising-global-bullion-market-risks-are-forcing-european-investors-to-rethink-physical-gold-access-825e9a06  
-https://www.morningstar.com/news/business-wire/20260203826775/rising-global-bullion-market-risks-are-forcing-european-investors-to-rethink-physical-gold-access
+https://apnews.com/press-release/business-wire/rising-global-bullion-market-risks-are-forcing-european-investors-to-rethink-physical-gold-access-8f5959412a0c4395a8519f5328b66245
+https://www.ansa.it/sito/notizie/economia/business_wire/2026/02/03/laumento-dei-rischi-del-mercato-globale-dei-lingotti-spinge-gli_c98cd3ba-362d-4b16-96b8-733a239e2a69.html
+https://markets.ft.com/data/announce/detail?dockey=600-202602030435BIZWIRE_USPRX____20260203_BW826775-1 
