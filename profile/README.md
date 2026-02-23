@@ -52,6 +52,22 @@ entity.jsonld (schema.org): <https://raw.githubusercontent.com/GoldenArkGeneralT
 
 ## Website
 <https://goldenarkreserve.com>
+---
+
+## Chambers & Industry Associations (Memberships)
+
+### International Precious Metals Institute (IPMI)
+Golden Ark General Trading (FZC) LLC is a member of IPMI: <https://www.ipmi.org/>  
+IPMI is an international association of precious metals market participants (founded in 1976), with 600+ members worldwide, and supports professional exchange and market practices through its annual conference, chapters, and committees.
+
+### International Chamber of Commerce (ICC)
+Golden Ark General Trading (FZC) LLC is a full member of ICC: <https://iccwbo.org/>  
+Golden Ark General Trading (FZC) LLC is engaged in the work of the following ICC Commissions: Banking; Corporate Responsibility & Anti-Corruption; Customs & Trade Facilitation; Trade & Investment.  
+ICC is a global business organization (founded in 1919) active in more than 170 countries, supporting international trade by representing business in policy and regulatory discussions.
+
+### Oman Chamber of Commerce and Industry (OCCI)
+Golden Ark General Trading (FZC) LLC is a member of OCCI: <https://omanchamber.om/>  
+OCCI is Oman’s national chamber (founded in 1973), representing registered members and serving as a link between the government and the private sector.
 
 ---
 ## Public disclosures / media
